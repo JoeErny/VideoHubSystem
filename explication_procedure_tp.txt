@@ -1,0 +1,31 @@
+
+Pour scinder le projet en plusieurs applis, nous avons repéré les services les plus atomiques qui sont les 3 suivants :
+
+VideoService, UserService et CategoryService.
+Nous avons créé un projet pour chacun des 3, qui contient un controlleur, un service et les repositories necessaires.
+
+Nous ne savions pas s'il fallait creer des projets pour les services qui en utilisent d'autres comme OrderService, qui utilise VideoService et UserService.
+Dans le doute nous avons laissé ces services dans l'appli OrchestrationService.
+
+Est-ce que la situation suivante serait correcte ? :
+ 
+OrchestrationService	<-REST->	 PaymentService 	<-REST->	OrderService  	<-REST-> UserService <-REPOSITORY->
+												<-REST-> VideoService
+
+ou alors tout le code métier devrait être dans OrchestrationService ?
+
+Nous avons eu un doute aussi pour la structure des données. Comment la laisser intacte tout en séparant les classes models ? Comment garder les liens ManyToOne etc. ?
+
+
+GET id = 1
+
+Video Service :
+http://localhost:8083/videohub_video/rest/video/1
+
+User Service :
+http://localhost:8082/videohub_user/rest/user/1
+
+Category Service :
+http://localhost:8081/videohub_category/rest/category/1
+
+
