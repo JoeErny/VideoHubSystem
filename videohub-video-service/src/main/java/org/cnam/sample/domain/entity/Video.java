@@ -6,6 +6,7 @@ public class Video {
     public String link;
     public Long category_id;
 
+
     public Video(Long id, String title, String link, Long category_id) {
         this.id = id;
         this.title = title;

@@ -4,7 +4,96 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89780180-035b-4670-88d5-2039cb0d4999" name="Default Changelist" comment="" />
+    <list default="true" id="89780180-035b-4670-88d5-2039cb0d4999" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../videohub-category-service/src/main/resources/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../videohub-category-service/src/main/resources/data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videohub-category-service/target/classes/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../videohub-category-service/target/classes/data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/SampleSpringBootApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/controller/dto/BrowsingRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/controller/dto/BrowsingResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/controller/dto/CategoryRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/controller/dto/CategoryResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/controller/dto/NumberViewsOfVideo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/controller/dto/OrderPurchaseRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/controller/dto/OrderPurchaseResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/controller/dto/OrderRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/controller/dto/OrderResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/controller/dto/PaymentRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/controller/dto/PaymentResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/controller/dto/SampleResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/controller/dto/SampleToCreateRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/controller/dto/UserRegistrationRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/controller/dto/UserRegistrationWithSponsorRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/controller/dto/UserRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/controller/dto/UserResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/controller/dto/VideoRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/controller/dto/VideoResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/controller/dto/VideoUpdateRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/controller/dto/ViewingRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/controller/dto/ViewingResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/controller/dto/WatchingResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/controller/restcontroller/administration/CategoryController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/controller/restcontroller/administration/OrderController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/controller/restcontroller/administration/PaymentController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/controller/restcontroller/administration/SampleController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/controller/restcontroller/administration/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/controller/restcontroller/administration/VideoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/controller/restcontroller/business/BrowsingController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/controller/restcontroller/business/OrderPurchaseController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/controller/restcontroller/business/RegistrationController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/controller/restcontroller/business/UsersVideoLibraryController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/controller/restcontroller/business/ViewingController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/domain/entity/Category.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/domain/entity/CategoryToCreate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/domain/entity/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/domain/entity/OrderPurchaseResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/domain/entity/OrderToCreate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/domain/entity/OrderToPurchase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/domain/entity/Payment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/domain/entity/PaymentToCreate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/domain/entity/Sample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/domain/entity/SampleToCreate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/domain/entity/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/domain/entity/UserToCreate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/domain/entity/UserToRegister.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/domain/entity/Video.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/domain/entity/VideoToCreate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/domain/entity/Viewing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/domain/entity/ViewingToCreate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/domain/service/businessservice/BrowsingService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/domain/service/businessservice/OrderPurchaseService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/domain/service/businessservice/SponsorshipService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/domain/service/businessservice/UsersVideoLibraryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/domain/service/businessservice/ViewingService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/domain/service/unitservice/CategoryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/domain/service/unitservice/FidelityPointsService$BONUSES.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/domain/service/unitservice/FidelityPointsService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/domain/service/unitservice/OrderService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/domain/service/unitservice/PaymentService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/domain/service/unitservice/PaymentStatusEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/domain/service/unitservice/SampleService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/domain/service/unitservice/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/domain/service/unitservice/VideoService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/repository/CategoryRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/repository/OrderRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/repository/PaymentRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/repository/SampleRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/repository/UserRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/repository/VideoRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/repository/ViewingRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/repository/model/CategoryModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/repository/model/OrderModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/repository/model/PaymentModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/repository/model/SampleModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/repository/model/UserModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/repository/model/VideoModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cnam/sample/repository/model/ViewingModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videohub-user-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../videohub-user-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videohub-user-service/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../videohub-user-service/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videohub-video-service/src/main/java/org/cnam/sample/domain/entity/Video.java" beforeDir="false" afterPath="$PROJECT_DIR$/../videohub-video-service/src/main/java/org/cnam/sample/domain/entity/Video.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videohub-video-service/target/classes/org/cnam/sample/domain/entity/Video.class" beforeDir="false" afterPath="$PROJECT_DIR$/../videohub-video-service/target/classes/org/cnam/sample/domain/entity/Video.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +111,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../videohub-category-service" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
